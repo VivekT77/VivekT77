@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi , I'm Vivek Thorat<br>💻I’m currently Working on Java Full Stack Development<br>😎 Checkout my LeetCode Profile at  https://leetcode.com/u/Vivek_Thorat2019/<br>
+<b>Hi , I'm Vivek Thorat<b/><br>💻I’m currently Working on Java Full Stack Development<br>😎 Checkout my LeetCode Profile at  https://leetcode.com/u/Vivek_Thorat2019/<br>
 
 
 ## 🌐 Socials:
